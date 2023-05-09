@@ -6,6 +6,9 @@
   I'm Amith Gamagedara
   </h1>
  
+ <div align="center">
+  <img align="center" alt="Designer & Developer" width="500" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif">
+ </div>
 
  # Technologies:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
