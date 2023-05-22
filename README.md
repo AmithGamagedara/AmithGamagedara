@@ -35,4 +35,4 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
-
+<br>[![An image of @kgaipgamagedara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kgaipgamagedara)](https://holopin.io/@kgaipgamagedara)
