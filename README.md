@@ -5,6 +5,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
   I'm Amith Gamagedara
   </h1>
+  <div id="badges" align="center">
+  <a href="https://lk.linkedin.com/in/amith-gamagedara">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div><br>
  
  <div align="center">
   <img align="center" alt="Designer & Developer" width="500" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif">
